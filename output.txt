@@ -1,0 +1,210 @@
+/home/victor/Projects/audible_to_goodreads/.venv/bin/python /usr/share/pycharm/plugins/python-ce/helpers/pydev/pydevd.py --multiproc --qt-support=auto --client 127.0.0.1 --port 40245 --file /home/victor/Projects/audible_to_goodreads/audible_api.py
+Connected to pydev debugger (build 213.7172.26)
+20,000 Leagues Under the Sea by Jules Verne has ISBN: 9781538488164
+Where the Crawdads Sing by Delia Owens has ISBN: 9781405543040
+[UNSURE] The Sandman by Neil Gaiman might have ISBN: 9781401265199
+Atomic Habits by James Clear has ISBN: 9781473565425
+[UNSURE] Will Destroy the Galaxy for Cash by Yahtzee Croshaw might have ISBN: 9781506715117
+A Short History of Nearly Everything by Bill Bryson has ISBN: 9781405690348
+The Beekeeper of Aleppo by Christy Lefteri has ISBN: 9781785769252
+Cytonic by Brandon Sanderson has ISBN: 9781409167402
+Dune by Frank Herbert has ISBN: 9781427201447
+[UNSURE] The Price of Tomorrow by Jeff Booth might have ISBN: 9781999257408
+[UNSURE] Project Hail Mary by Andy Weir might have ISBN: 9780593355275
+Liftoff by Eric Berger has ISBN: 9780008445652
+A Brief History of Time by Stephen Hawking has ISBN: 9781473541221
+Humankind by Rutger Bregman has ISBN: 9781526620941
+The Colour of Magic by Terry Pratchett has ISBN: 9781407032832
+[UNSURE] Will Save the Galaxy for Food by Yahtzee Croshaw might have ISBN: 9781506701653
+[UNSURE] Heaven's River by Dennis E. Taylor might have ISBN: 9781680682267
+The Singularity Trap by Dennis E. Taylor has ISBN: 9781603934190
+Warbreaker by Brandon Sanderson has ISBN: 9781528802925
+Edgedancer by Brandon Sanderson has ISBN: 9781409184539
+Rhythm of War by Brandon Sanderson has ISBN: 9781473231054
+The Subtle Art of Not Giving a F*ck by Mark Manson has ISBN: 9780062562982
+Lady of the Lake by Andrzej Sapkowski has ISBN: 9781409166290
+The Tower of the Swallow by Andrzej Sapkowski has ISBN: 9781409161097
+Secret History by Brandon Sanderson has ISBN: 9781409184546
+The Bands of Mourning by Brandon Sanderson has ISBN: 9781409160991
+Shadows of Self by Brandon Sanderson has ISBN: 9781409160557
+The Shock Doctrine by Naomi Klein has ISBN: 9780141989617
+The Alloy of Law by Brandon Sanderson has ISBN: 9781409142874
+The Assassin's Blade by Sarah J. Maas has ISBN: 9781619636293
+Algorithms to Live By by Brian Christian has ISBN: 9781480560352
+Hyperion by Dan Simmons has ISBN: 9781603933292
+Why We Sleep by Matthew Walker has ISBN: 9780141988405
+[UNSURE] The Dark Web by Geoff White might have ISBN: 9781789144437
+Steve Jobs by Walter Isaacson has ISBN: 9781405510110
+Artemis by Andy Weir has ISBN: 9781603932127
+Baptism of Fire by Andrzej Sapkowski has ISBN: 9781409153306
+Time of Contempt by Andrzej Sapkowski has ISBN: 9781409153290
+Blood of Elves by Andrzej Sapkowski has ISBN: 9781409153283
+Sword of Destiny by Andrzej Sapkowski has ISBN: 9781409162766
+The Last Wish by Andrzej Sapkowski has ISBN: 9781409153276
+Permanent Record by Edward Snowden has ISBN: 9781529035681
+Starsight by Brandon Sanderson has ISBN: 9781409167396
+The Book of Why by Judea Pearl has ISBN: 9781543695250
+Dark Age by Pierce Brown has ISBN: 9781980000174
+Blade Runner by Philip K. Dick has ISBN: 9780739342763
+[UNSURE] H.G. Wells: The Science Fiction Collection by H. G. Wells might have ISBN: 9781784289058
+Mythos by Stephen Fry has ISBN: 9781405934312
+Iron Gold by Pierce Brown has ISBN: 9781501959790
+Skyward by Brandon Sanderson has ISBN: 9781409167389
+Morning Star by Pierce Brown has ISBN: 9781501904417
+Norse Mythology by Neil Gaiman has ISBN: 9781408891797
+The Man in the High Castle by Philip K. Dick has ISBN: 9781455840373
+Golden Son by Pierce Brown has ISBN: 9781471291432
+[UNSURE] Out of Spite, Out of Mind by Scott Meyer might have ISBN: 9781950056002
+Sapiens by Yuval Noah Harari has ISBN: 9781473523784
+Red Rising by Pierce Brown has ISBN: 9781471271311
+Windhaven by Lisa Tuttle has ISBN: 9781444762235
+The Book Thief by Markus Zusak has ISBN: 9781407001661
+Animal Farm by George Orwell has ISBN: 9781907416040
+[UNSURE] If I Could Tell You Just One Thing by Richard Reed might have ISBN: 9781782119227
+Oathbringer by Brandon Sanderson has ISBN: 9781409150084
+Words of Radiance by Brandon Sanderson has ISBN: 9781409126898
+The Way of Kings by Brandon Sanderson has ISBN: 9781409141174
+[UNSURE] The Butterfly Effect with Jon Ronson by Jon Ronson might have ISBN:
+All These Worlds by Dennis E. Taylor has ISBN: 9781603932196
+American Gods: The Tenth Anniversary Edition (A Full Cast Production) by Neil Gaiman has ISBN: 9780755396023
+For We Are Many by Dennis E. Taylor has ISBN: 9781603932189
+We Are Legion (We Are Bob) by Dennis E. Taylor has ISBN: 9781603932202
+Fight and Flight by Scott Meyer has ISBN: 9781603933001
+Lord of the Flies by William Golding has ISBN: 9780571249589
+The Hero of Ages by Brandon Sanderson has ISBN: 9781409141167
+The Well of Ascension by Brandon Sanderson has ISBN: 9781409141150
+The Final Empire by Brandon Sanderson has ISBN: 9781409141143
+Fear the Future by Stephen Moss has ISBN: 9781772300536
+Fear the Survivors by Stephen Moss has ISBN: 9781772300529
+Fear the Sky by Stephen Moss has ISBN: 9781772300208
+Elon Musk by Ashlee Vance has ISBN: 9780753551981
+Calamity by Brandon Sanderson has ISBN: 9781409161141
+[UNSURE] A Christmas Carol by Charles Dickens might have ISBN: 9781503212831
+Mitosis by Brandon Sanderson has ISBN: 9781409156680
+Firefight by Brandon Sanderson has ISBN: 9781409150060
+The Player of Games by Iain M. Banks has ISBN: 9781405509299
+Consider Phlebas by Iain M. Banks has ISBN: 9781405509282
+Steelheart by Brandon Sanderson has ISBN: 9781409139775
+An Unwelcome Quest by Scott Meyer has ISBN: 9781501220685
+Spell or High Water by Scott Meyer has ISBN: 9781491519608
+Off to Be the Wizard by Scott Meyer has ISBN: 9781480578166
+Snow Crash by Neal Stephenson has ISBN: 9781603930062
+How to Win Friends & Influence People by Dale Carnegie has ISBN: 9780743544719
+Ready Player One by Ernest Cline has ISBN: 9781448149582
+Harry Potter and the Deathly Hallows, Book 7 by J.K. Rowling has ISBN: 9781781102428
+Harry Potter and the Half-Blood Prince, Book 6 by J.K. Rowling has ISBN: 9781781102411
+Harry Potter and the Order of the Phoenix, Book 5 by J.K. Rowling has ISBN: 9781781102404
+Harry Potter and the Prisoner of Azkaban, Book 3 by J.K. Rowling has ISBN: 9781781102381
+Harry Potter and the Goblet of Fire, Book 4 by J.K. Rowling has ISBN: 9781781102398
+Harry Potter and the Chamber of Secrets, Book 2 by J.K. Rowling has ISBN: 9781781102374
+To Kill a Mockingbird by Harper Lee has ISBN: 9781473517769
+Harry Potter and the Philosopher's Stone, Book 1 by J.K. Rowling has ISBN: 9781781102367
+Slaughterhouse-Five by Kurt Vonnegut has ISBN: 9781603932592
+ISBN 9781405543040 was not found on goodreads, trying title Where the Crawdads Sing and author Delia Owens
+ISBN 9781405690348 was not found on goodreads, trying title A Short History of Nearly Everything and author Bill Bryson
+ISBN 9781409167402 was not found on goodreads, trying title Cytonic and author Brandon Sanderson
+ISBN 9780008445652 was not found on goodreads, trying title Liftoff and author Eric Berger
+ISBN 9781526620941 was not found on goodreads, trying title Humankind and author Rutger Bregman
+ISBN 9781603934190 was not found on goodreads, trying title The Singularity Trap and author Dennis E. Taylor
+ISBN 9781528802925 was not found on goodreads, trying title Warbreaker and author Brandon Sanderson
+ISBN 9781409184539 was not found on goodreads, trying title Edgedancer and author Brandon Sanderson
+ISBN 9781473231054 was not found on goodreads, trying title Rhythm of War and author Brandon Sanderson
+ISBN 9781409166290 was not found on goodreads, trying title Lady of the Lake and author Andrzej Sapkowski
+ISBN 9781409184546 was not found on goodreads, trying title Secret History and author Brandon Sanderson
+ISBN 9781409160991 was not found on goodreads, trying title The Bands of Mourning and author Brandon Sanderson
+ISBN 9789200000034 was not found on goodreads, trying title None and author None
+ISBN 9781409160557 was not found on goodreads, trying title Shadows of Self and author Brandon Sanderson
+ISBN 9789200000034 was not found on goodreads, trying title None and author None
+ISBN 9781409142874 was not found on goodreads, trying title The Alloy of Law and author Brandon Sanderson
+ISBN 9781619636293 was not found on goodreads, trying title The Assassin's Blade and author Sarah J. Maas
+ISBN 9781480560352 was not found on goodreads, trying title Algorithms to Live By and author Brian Christian
+ISBN 9781603933292 was not found on goodreads, trying title Hyperion and author Dan Simmons
+ISBN 9781405510110 was not found on goodreads, trying title Steve Jobs and author Walter Isaacson
+ISBN 9781603932127 was not found on goodreads, trying title Artemis and author Andy Weir
+ISBN 9781409153306 was not found on goodreads, trying title Baptism of Fire and author Andrzej Sapkowski
+ISBN 9781409153290 was not found on goodreads, trying title Time of Contempt and author Andrzej Sapkowski
+ISBN 9781409153283 was not found on goodreads, trying title Blood of Elves and author Andrzej Sapkowski
+ISBN 9781409162766 was not found on goodreads, trying title Sword of Destiny and author Andrzej Sapkowski
+ISBN 9781409153276 was not found on goodreads, trying title The Last Wish and author Andrzej Sapkowski
+ISBN 9781529035681 was not found on goodreads, trying title Permanent Record and author Edward Snowden
+ISBN 9781409167396 was not found on goodreads, trying title Starsight and author Brandon Sanderson
+ISBN 9781543695250 was not found on goodreads, trying title The Book of Why and author Judea Pearl
+ISBN 9781980000174 was not found on goodreads, trying title Dark Age and author Pierce Brown
+ISBN 9781501959790 was not found on goodreads, trying title Iron Gold and author Pierce Brown
+ISBN 9781501904417 was not found on goodreads, trying title Morning Star and author Pierce Brown
+ISBN 9781408891797 was not found on goodreads, trying title Norse Mythology and author Neil Gaiman
+ISBN 9781471291432 was not found on goodreads, trying title Golden Son and author Pierce Brown
+ISBN 9781471271311 was not found on goodreads, trying title Red Rising and author Pierce Brown
+ISBN 9781444762235 was not found on goodreads, trying title Windhaven and author Lisa Tuttle
+ISBN 9781907416040 was not found on goodreads, trying title Animal Farm and author George Orwell
+ISBN 9781409150084 was not found on goodreads, trying title Oathbringer and author Brandon Sanderson
+ISBN 9781409141174 was not found on goodreads, trying title The Way of Kings and author Brandon Sanderson
+Book with title The Butterfly Effect with Jon Ronson has no ISBN, skipping.
+ISBN  was not found on goodreads, trying title The Butterfly Effect with Jon Ronson and author Jon Ronson
+ISBN  was not found on goodreads, trying title None and author None
+ISBN 9781603932196 was not found on goodreads, trying title All These Worlds and author Dennis E. Taylor
+ISBN 9781603932189 was not found on goodreads, trying title For We Are Many and author Dennis E. Taylor
+ISBN 9781603932202 was not found on goodreads, trying title We Are Legion (We Are Bob) and author Dennis E. Taylor
+ISBN 9781603933001 was not found on goodreads, trying title Fight and Flight and author Scott Meyer
+ISBN 9780571249589 was not found on goodreads, trying title Lord of the Flies and author William Golding
+ISBN 9781409141167 was not found on goodreads, trying title The Hero of Ages and author Brandon Sanderson
+ISBN 9781409141150 was not found on goodreads, trying title The Well of Ascension and author Brandon Sanderson
+ISBN 9781772300536 was not found on goodreads, trying title Fear the Future and author Stephen Moss
+ISBN 9781772300529 was not found on goodreads, trying title Fear the Survivors and author Stephen Moss
+ISBN 9781500987992 was not found on goodreads, trying title None and author None
+ISBN 9781772300208 was not found on goodreads, trying title Fear the Sky and author Stephen Moss
+ISBN 9781499759129 was not found on goodreads, trying title None and author None
+ISBN 9780753551981 was not found on goodreads, trying title Elon Musk and author Ashlee Vance
+ISBN 9781409161141 was not found on goodreads, trying title Calamity and author Brandon Sanderson
+ISBN 9781409156680 was not found on goodreads, trying title Mitosis and author Brandon Sanderson
+ISBN 9781409150060 was not found on goodreads, trying title Firefight and author Brandon Sanderson
+ISBN 9781405509299 was not found on goodreads, trying title The Player of Games and author Iain M. Banks
+ISBN 9781405509282 was not found on goodreads, trying title Consider Phlebas and author Iain M. Banks
+ISBN 9781409139775 was not found on goodreads, trying title Steelheart and author Brandon Sanderson
+ISBN 9781501220685 was not found on goodreads, trying title An Unwelcome Quest and author Scott Meyer
+ISBN 9781491519608 was not found on goodreads, trying title Spell or High Water and author Scott Meyer
+ISBN 9781480578166 was not found on goodreads, trying title Off to Be the Wizard and author Scott Meyer
+ISBN 9781603930062 was not found on goodreads, trying title Snow Crash and author Neal Stephenson
+Traceback (most recent call last):
+  File "/usr/share/pycharm/plugins/python-ce/helpers/pydev/pydevd.py", line 1483, in _exec
+    pydev_imports.execfile(file, globals, locals)  # execute the script
+  File "/usr/share/pycharm/plugins/python-ce/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/home/victor/Projects/audible_to_goodreads/audible_api.py", line 168, in <module>
+    author=book['authors'][0]['name']
+  File "/home/victor/Projects/audible_to_goodreads/audible_api.py", line 120, in get_shelf
+    goodreads_state = self.driver.find_element(By.CSS_SELECTOR, ".wtrLeft").text
+  File "/home/victor/Projects/audible_to_goodreads/.venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 1253, in find_element
+    'value': value})['value']
+  File "/home/victor/Projects/audible_to_goodreads/.venv/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 430, in execute
+    self.error_handler.check_response(response)
+  File "/home/victor/Projects/audible_to_goodreads/.venv/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".wtrLeft"}
+  (Session info: chrome=101.0.4951.64)
+Stacktrace:
+#0 0x55735f4deae4 <unknown>
+#1 0x55735ee69851 <unknown>
+#2 0x55735eea1d3a <unknown>
+#3 0x55735eea1e41 <unknown>
+#4 0x55735eedb8f5 <unknown>
+#5 0x55735eec691d <unknown>
+#6 0x55735eed9808 <unknown>
+#7 0x55735eec67b3 <unknown>
+#8 0x55735ee95bb3 <unknown>
+#9 0x55735ee9723e <unknown>
+#10 0x55735f51dfcd <unknown>
+#11 0x55735f5203b6 <unknown>
+#12 0x55735f52009b <unknown>
+#13 0x55735f5208e2 <unknown>
+#14 0x55735f50de5b <unknown>
+#15 0x55735f520bb7 <unknown>
+#16 0x55735f503b95 <unknown>
+#17 0x55735f538ee7 <unknown>
+#18 0x55735f5390be <unknown>
+#19 0x55735f553de5 <unknown>
+#20 0x7f69c13705c2 <unknown>
+
+python-BaseException
+
+Process finished with exit code 1
